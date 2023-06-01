@@ -116,3 +116,12 @@ BUildpath -> Add Folder -> generated-sources 체크를 통해 생성
 target -> classes를 못 찾을 경우에
  * maven build -> goal = install 입력 후 실행하면
 	- target folder에  classes folder 수동 생성
+
+
+lombok 라이브러리 의존성 추가했는데 maven 인식 안될때
+
+eclipse folder -> eclipse.ini open 해서 
+
+-javaagent:D:\dev\tools\eclipse-jee-2020-06-R-win32-x86_64\lombok.jar
+
+맨 뒤에 \lombok.jar 추가
