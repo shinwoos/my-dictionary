@@ -1,22 +1,6 @@
-## develop doc
-**처리했던, 또는 학습했던 내용들 정리**
 
----
+## properties에 따른 Spring Profile 설정
 
-📙 [*JAVA*](https://github.com/shinwoos/my-dictionary/blob/master/java/main.md)
-
-
-
-
-📒 [*Java Script*](https://github.com/shinwoos/my-dictionary/blob/master/js/main.md)
-
-
-
-
-<br>
-<br>
-
-# 개발환경에 맞는 Spring Profile 설정
 spring boot에서 properties 다수로 나뉘었을 때 tomcat에 setting 값
 
 -Dspring.profiles.active=dev //개발 <br>
