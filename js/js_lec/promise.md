@@ -8,7 +8,7 @@
 
 아래 예제는 *callback hell* 을 **Promise**를 사용해 *callback hell*이 발생하지 않습니다.
 
-*callback hell* : 일련의 처리 후 다음 함수의 매개변수로 값을 연속적으로 넘겨주는 행위 [예제보기](#소개)
+*callback hell* : 일련의 처리 후 다음 함수의 매개변수로 값을 연속적으로 넘겨주는 행위 [예제보기](callback-hell-example)
 
 ```javascript
 
@@ -56,7 +56,7 @@ userStorage
 <br>
 
 *callback hell example*
-소개
+
 
 ```javascript
 function(){
