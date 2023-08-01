@@ -7,4 +7,4 @@
 
 📒 [*Java Script*](https://github.com/shinwoos/my-dictionary/blob/master/js/main.md)
 
-
+📘 [*Python*](https://github.com/shinwoos/my-dictionary/blob/master/python/main.md)
